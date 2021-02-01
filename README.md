@@ -19,7 +19,7 @@ java -version
 Para descargar el proyecto de GitHub, primero debemos clonar este repositorio, ejecutando la siguiente línea de comando en GIT.
 
 ```
-git clone https://github.com/Skullzo/AREP-Lab2.git
+git clone https://github.com/Skullzo/AREP-Lab3.git
 ```
 
 ## Ejecución
@@ -40,6 +40,7 @@ Luego de haber ejecutado el comando ```mvn test``` en un Shell o Símbolo del Si
 
 ## Desplegar en Heroku
 Para desplegar el programa en Heroku, se debe realizar clic en el siguiente botón de Heroku para desplegar automáticamente la aplicación directamente desde Heroku.
+----------*Cambiar enlace de Heroku*----------
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://areplab2.herokuapp.com/)
 
@@ -52,7 +53,7 @@ Para desplegar el programa en Heroku, se debe realizar clic en el siguiente bot�
 * [Heroku](https://www.heroku.com/). Plataforma en la nube como servicio (PaaS en sus siglas en inglés) basada en contenedores. Los desarrolladores usan Heroku para implementar, administrar y escalar aplicaciones modernas.
 * [CircleCI](https://circleci.com/). Plataforma moderna de integración continua y entrega continua (CI / CD) que se encarga de automatizar la construcción, pruebas e implementación de software.
 
-     [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/Skullzo/AREP-Lab2)
+     ----------*Agregar Badge de CircleCI aquí*----------
 
 ## Autor
 [Alejandro Toro Daza](https://github.com/Skullzo)
