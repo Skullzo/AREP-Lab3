@@ -1,6 +1,6 @@
 # Taller Clientes y Servicios
 ## Descripción
-En el **Taller Heroku** se escribirá un programa para calcular la desviación estándar y media de un conjunto de ```n``` números reales. El programa debe realizar la lectura de los ```n``` números reales de un archivo de texto, el cual se debe utilizar una lista enlazada o ```Linkedlist``` para almacenar los ```n``` números para los respectivos cálculos. Para esto, se debe escribir una implementación propia de una lista enlazada y esta debe ser compatible con la API de colecciones de Java. Luego, se implementará con Spark una página web la cual tendrá una interfaz de usuario, y el usuario podrá en esta interfaz ingresar los valores de los cuales quiere hallar la Media y la Desviación Estándar. Esta página web será desplegada en la herramienta **Heroku**, brindando así la oportunidad de que cualquier usuario pueda acceder a ella y utilizarla.
+----------*Agregar contenido aquí*----------
 ## Prerrequisitos
 Para la realización y ejecución tanto del programa como de las pruebas de este, se requieren ser instalados los siguientes programas:
 * [Maven](https://maven.apache.org/). Herramienta que se encarga de estandarizar la estructura física de los proyectos de software, maneja dependencias (librerías) automáticamente desde repositorios y administra el flujo de vida de construcción de un software.
