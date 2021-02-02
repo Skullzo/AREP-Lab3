@@ -34,6 +34,8 @@ Para realizar las pruebas correspondientes del proyecto utilizando la herramient
 ```
 mvn test
 ```
+
+----------*Quitar o poner foto de las Pruebas*----------
 Luego de haber ejecutado el comando ```mvn test``` en un Shell o Símbolo del Sistema, debe aparecer la siguiente imagen, demostrando que las pruebas han sido realizadas exitosamente.
 
 ![img](https://github.com/Skullzo/AREP-Lab1/blob/main/img/Pruebas.PNG)
