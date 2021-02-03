@@ -41,7 +41,6 @@ Luego de haber ejecutado el comando ```mvn test``` en un Shell o Símbolo del Si
 
 ## Desplegar en Heroku
 Para desplegar el programa en Heroku, se debe realizar clic en el siguiente botón de Heroku para desplegar automáticamente la aplicación directamente desde Heroku.
-----------*Cambiar enlace de Heroku*----------
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://arep-lab3.herokuapp.com/)
 
