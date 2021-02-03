@@ -35,10 +35,9 @@ Para realizar las pruebas correspondientes del proyecto utilizando la herramient
 mvn test
 ```
 
-----------*Quitar o poner foto de las Pruebas*----------
 Luego de haber ejecutado el comando ```mvn test``` en un Shell o Símbolo del Sistema, debe aparecer la siguiente imagen, demostrando que las pruebas han sido realizadas exitosamente.
 
-![img](https://github.com/Skullzo/AREP-Lab1/blob/main/img/Pruebas.PNG)
+![img](https://github.com/Skullzo/AREP-Lab3/blob/main/img/Pruebas.PNG)
 
 ## Desplegar en Heroku
 Para desplegar el programa en Heroku, se debe realizar clic en el siguiente botón de Heroku para desplegar automáticamente la aplicación directamente desde Heroku.
