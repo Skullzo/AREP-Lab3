@@ -1,1 +1,1 @@
-alert("¡Bienvenido a la pagina oficial de la Registraduria Nacional del Estado Civil!");
+alert("Bienvenido a la pagina oficial de la Registraduria Nacional del Estado Civil");
