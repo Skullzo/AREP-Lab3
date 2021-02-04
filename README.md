@@ -49,6 +49,14 @@ Para desplegar el programa en Heroku, se debe realizar clic en el siguiente bot�
 * Para visualizar el logo de la Registraduría Nacional del Estado Civil, poner el recurso ```/RegistraduriaNacionalDelEstadoCivil.png``` al final de la URL de Heroku.
 * Para consultar todas las bases de datos de todos los ciudadanos, poner el recurso ```/Apps/informationDB``` al final de la URL de Heroku.
 
+## Credenciales de las Bases de Datos
+Para acceder a las bases de datos de la aplicación, ya sea en [DBeaver](https://dbeaver.io/) o en alguna otra herramienta que disponga el usuario, es necesario registrar las siguientes credenciales para poder acceder a las bases de datos:
+* **Host:** ec2-3-222-11-129.compute-1.amazonaws.com
+* **Port:** 5432
+* **Database:** d6o6e4o75j6858
+* **User:** jzzckchskydmai
+* **Password:** 91cf496616f13a4a396ea1a9eb4cb4c0293c41c9f766de85a73d2bd730667209
+
 ## Construido con
 * [Maven](https://maven.apache.org/). Herramienta que se encarga de estandarizar la estructura física de los proyectos de software, maneja dependencias (librerías) automáticamente desde repositorios y administra el flujo de vida de construcción de un software.
 * [GIT](https://git-scm.com/). Sistema de control de versiones que almacena cambios sobre un archivo o un conjunto de archivos, permite recuperar versiones previas de esos archivos y permite otras cosas como el manejo de ramas (branches).
