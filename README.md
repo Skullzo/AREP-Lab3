@@ -46,7 +46,7 @@ Para desplegar el programa en Heroku, se debe realizar clic en el siguiente bot�
 
 * Para ir a la interfaz principal, poner el recurso ```/index.html``` al final de la URL de Heroku. 
 * Para consultar toda la información relacionada con la Registraduría Nacional del Estado Civil, poner el recurso ```/Apps/acercade``` al final de la URL de Heroku.
-* Para visualizar el logo de la Registraduría Nacional del Estado Civil, poner el recurso ```/Apps/RegistraduriaNacionalDelEstadoCivil``` al final de la URL de Heroku.
+* Para visualizar el logo de la Registraduría Nacional del Estado Civil, poner el recurso ```/RegistraduriaNacionalDelEstadoCivil.png``` al final de la URL de Heroku.
 * Para consultar todas las bases de datos de todos los ciudadanos, poner el recurso ```/Apps/informationDB``` al final de la URL de Heroku.
 
 ## Construido con
