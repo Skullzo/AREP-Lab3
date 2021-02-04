@@ -45,9 +45,9 @@ Para desplegar el programa en Heroku, se debe realizar clic en el siguiente bot�
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://arep-lab3.herokuapp.com/)
 
 * Para ir a la interfaz principal, poner el recurso ```/index.html``` al final de la URL de Heroku. 
-* Para ir a las bases de datos de todos los ciudadanos, poner el recurso ```/Apps/informationDB``` al final de la URL de Heroku.
-
-----------*Agregar los otros recursos*----------
+* Para consultar toda la información relacionada con la Registraduría Nacional del Estado Civil, poner el recurso ```/Apps/acercade``` al final de la URL de Heroku.
+* Para visualizar el logo de la Registraduría Nacional del Estado Civil, poner el recurso ```/Apps/RegistraduriaNacionalDelEstadoCivil``` al final de la URL de Heroku.
+* Para consultar todas las bases de datos de todos los ciudadanos, poner el recurso ```/Apps/informationDB``` al final de la URL de Heroku.
 
 ## Construido con
 * [Maven](https://maven.apache.org/). Herramienta que se encarga de estandarizar la estructura física de los proyectos de software, maneja dependencias (librerías) automáticamente desde repositorios y administra el flujo de vida de construcción de un software.
