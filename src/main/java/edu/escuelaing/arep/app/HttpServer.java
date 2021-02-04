@@ -84,7 +84,7 @@ public class HttpServer {
             file = "";
             ArrayList<String[]> information = connection.getInformation();
             for(String[] temp : information){
-                file+=" Nombres y Apellidos: " + temp[0] + "     -     " + " Direccion: " + temp[1];
+                file+=" Nombres y Apellidos: " + temp[0] + "     -     " + " Direccion: " + temp[1] + "\n";
             }
             return outputLine + file;
         }
